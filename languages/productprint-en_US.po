@@ -1,0 +1,281 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: ProductPrint\n"
+"POT-Creation-Date: 2018-08-02 17:52+0100\n"
+"PO-Revision-Date: 2018-08-02 17:54+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: productprint.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: html-print.php:171 html-print.php:175
+msgid "SKU: "
+msgstr "SKU: "
+
+#: html-print.php:192
+msgid " in stock"
+msgstr " in stock"
+
+#: html-print.php:195
+msgid "Out of stock"
+msgstr "Out of stock"
+
+#: html-print.php:225
+msgid "Product Description"
+msgstr "Product Description"
+
+#: html-print.php:246
+msgid "Additional Information"
+msgstr "Additional Information"
+
+#: html-print.php:275
+msgid "Reviews"
+msgstr "Reviews"
+
+#. translators: 1: reviews count 2: product name
+#: html-print.php:285
+#, php-format
+msgid "%1$s review for %2$s. Average rating: %3$s out of 5"
+msgid_plural "%1$s reviews for %2$s. Average rating: %3$s out of 5"
+msgstr[0] "%1$s review for %2$s. Average rating: %3$s out of 5"
+msgstr[1] "%1$s reviews for %2$s. Average rating: %3$s out of 5"
+
+#: html-print.php:296
+msgid "There are no reviews yet."
+msgstr "There are no reviews yet."
+
+#: inc/gallery-images.php:33
+msgid "More Images"
+msgstr "More Images"
+
+#: productprint.php:189
+msgid "ProductPrint Settings"
+msgstr "ProductPrint Settings"
+
+#: productprint.php:193
+msgid "Go Pro"
+msgstr "Go Pro"
+
+#: productprint.php:196
+msgid "Options"
+msgstr "Options"
+
+#: productprint.php:236
+msgid "Print button"
+msgstr "Print button"
+
+#: productprint.php:244
+msgid "Position on the page"
+msgstr "Position on the page"
+
+#: productprint.php:248
+msgid "Before product"
+msgstr "Before product"
+
+#: productprint.php:249
+msgid "Before product summary"
+msgstr "Before product summary"
+
+#: productprint.php:250
+msgid "Product summary"
+msgstr "Product summary"
+
+#: productprint.php:251
+msgid "Before add to cart form"
+msgstr "Before add to cart form"
+
+#: productprint.php:252
+msgid "After product meta"
+msgstr "After product meta"
+
+#: productprint.php:253
+msgid "After product summary"
+msgstr "After product summary"
+
+#: productprint.php:254
+msgid "After product"
+msgstr "After product"
+
+#: productprint.php:259
+msgid "Label for the button"
+msgstr "Label for the button"
+
+#: productprint.php:261
+msgid "Append either px or % to the button margin values."
+msgstr "Append either px or % to the button margin values."
+
+#: productprint.php:262 productprint.php:365
+msgid "Left margin"
+msgstr "Left margin"
+
+#: productprint.php:263 productprint.php:366
+msgid "Right margin"
+msgstr "Right margin"
+
+#: productprint.php:264 productprint.php:367
+msgid "Top margin"
+msgstr "Top margin"
+
+#: productprint.php:265 productprint.php:368
+msgid "Bottom margin"
+msgstr "Bottom margin"
+
+#: productprint.php:267
+msgid ""
+"Select a printer icon from the media library, or upload one. A good size is "
+"around 20x20 px."
+msgstr ""
+"Select a printer icon from the media library, or upload one. A good size is "
+"around 20x20 px."
+
+#: productprint.php:271
+msgid "Current selection: "
+msgstr "Current selection: "
+
+#: productprint.php:277
+msgid "Select the elements to be printed"
+msgstr "Select the elements to be printed"
+
+#: productprint.php:288
+msgid "Show short description?"
+msgstr "Show short description?"
+
+#: productprint.php:288 productprint.php:293 productprint.php:298
+#: productprint.php:303 productprint.php:308 productprint.php:313
+#: productprint.php:318 productprint.php:339 productprint.php:369
+#: productprint.php:391 productprint.php:398
+msgid "Yes"
+msgstr "Yes"
+
+#: productprint.php:290 productprint.php:295 productprint.php:300
+#: productprint.php:305 productprint.php:310 productprint.php:315
+#: productprint.php:320 productprint.php:341 productprint.php:371
+#: productprint.php:393 productprint.php:400
+msgid "Selected="
+msgstr "Selected="
+
+#: productprint.php:291 productprint.php:296 productprint.php:301
+#: productprint.php:306 productprint.php:311 productprint.php:316
+#: productprint.php:321 productprint.php:342 productprint.php:372
+#: productprint.php:394 productprint.php:401
+msgid "No"
+msgstr "No"
+
+#: productprint.php:293
+msgid "Show description?"
+msgstr "Show description?"
+
+#: productprint.php:298
+msgid "Show price?"
+msgstr "Show price?"
+
+#: productprint.php:303
+msgid "Show SKU?"
+msgstr "Show SKU?"
+
+#: productprint.php:308
+msgid "Show attributes?"
+msgstr "Show attributes?"
+
+#: productprint.php:313
+msgid "Show stock level?"
+msgstr "Show stock level?"
+
+#: productprint.php:318
+msgid "Show reviews?"
+msgstr "Show reviews?"
+
+#: productprint.php:331
+msgid "Featured Image Settings"
+msgstr "Featured Image Settings"
+
+#: productprint.php:339
+msgid "Show featured image?"
+msgstr "Show featured image?"
+
+#: productprint.php:346 productprint.php:350
+msgid "Position"
+msgstr "Position"
+
+#: productprint.php:362 productprint.php:383
+msgid ""
+"Append either px or % to the width. The height will scale in proportion."
+msgstr ""
+"Append either px or % to the width. The height will scale in proportion."
+
+#: productprint.php:363
+msgid "Width"
+msgstr "Width"
+
+#: productprint.php:364
+msgid "Append either px or % to the margin values."
+msgstr "Append either px or % to the margin values."
+
+#: productprint.php:369
+msgid "Show border?"
+msgstr "Show border?"
+
+#: productprint.php:382
+msgid "Gallery Options"
+msgstr "Gallery Options"
+
+#: productprint.php:391
+msgid "Show gallery?"
+msgstr "Show gallery?"
+
+#: productprint.php:396
+msgid "Gallery Image Width"
+msgstr "Gallery Image Width"
+
+#: productprint.php:398
+msgid "Show borders?"
+msgstr "Show borders?"
+
+#: productprint.php:411
+msgid "Printer font"
+msgstr "Printer font"
+
+#: productprint.php:420
+msgid "Font Family"
+msgstr "Font Family"
+
+#: productprint.php:422
+msgid "font family"
+msgstr "font family"
+
+#: productprint.php:431
+msgid "Font Size"
+msgstr "Font Size"
+
+#. Plugin Name of the plugin/theme
+msgid "ProductPrint"
+msgstr "ProductPrint"
+
+#. Plugin URI of the plugin/theme
+msgid "http://productprintpro.com/productprint"
+msgstr "http://productprintpro.com/productprint"
+
+#. Description of the plugin/theme
+msgid "WooCommerce extension to create printer-friendly product pages."
+msgstr "WooCommerce extension to create printer-friendly product pages."
+
+#. Author of the plugin/theme
+msgid "Togethernet"
+msgstr "Togethernet"
+
+#. Author URI of the plugin/theme
+msgid "http://togethernet.ltd.uk"
+msgstr "http://togethernet.ltd.uk"

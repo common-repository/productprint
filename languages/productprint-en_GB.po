@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProductPrint Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-26 13:04+0000\n"
+"PO-Revision-Date: 2018-01-26 13:15+0000\n"
+"Last-Translator: Ken Richman <ken.richman@togethernet.co.uk>\n"
+"Language-Team: English (UK)\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: productprint.php:189
+msgid "ProductPrint Settings"
+msgstr ""
+
+#: productprint.php:193
+msgid "Options"
+msgstr ""
+
+#: productprint.php:196
+msgid "Go Pro"
+msgstr ""
+
+#: productprint.php:236
+msgid "Print button"
+msgstr ""
+
+#: productprint.php:244
+msgid "Position on the page"
+msgstr ""
+
+#: productprint.php:248
+msgid "Before product"
+msgstr ""
+
+#: productprint.php:249
+msgid "Before product summary"
+msgstr ""
+
+#: productprint.php:250
+msgid "Product summary"
+msgstr ""
+
+#: productprint.php:251
+msgid "Before add to cart form"
+msgstr ""
+
+#: productprint.php:252
+msgid "After product meta"
+msgstr ""
+
+#: productprint.php:253
+msgid "After product summary"
+msgstr ""
+
+#: productprint.php:254
+msgid "After product"
+msgstr ""
+
+#: productprint.php:259
+msgid "Label for the button"
+msgstr ""
+
+#: productprint.php:261
+msgid "Append either px or % to the button margin values."
+msgstr ""
+
+#: productprint.php:262 productprint.php:365
+msgid "Left margin"
+msgstr ""
+
+#: productprint.php:263 productprint.php:366
+msgid "Right margin"
+msgstr ""
+
+#: productprint.php:264 productprint.php:367
+msgid "Top margin"
+msgstr ""
+
+#: productprint.php:265 productprint.php:368
+msgid "Bottom margin"
+msgstr ""
+
+#: productprint.php:267
+msgid ""
+"Select a printer icon from the media library, or upload one. A good size is "
+"around 20x20 px."
+msgstr ""
+
+#: productprint.php:271
+msgid "Current selection: "
+msgstr ""
+
+#: productprint.php:277
+msgid "Select the elements to be printed"
+msgstr ""
+
+#: productprint.php:288
+msgid "Show short description?"
+msgstr ""
+
+#: productprint.php:288 productprint.php:293 productprint.php:298
+#: productprint.php:303 productprint.php:308 productprint.php:313
+#: productprint.php:318 productprint.php:339 productprint.php:369
+#: productprint.php:391 productprint.php:398
+msgid "Yes"
+msgstr ""
+
+#: productprint.php:290 productprint.php:295 productprint.php:300
+#: productprint.php:305 productprint.php:310 productprint.php:315
+#: productprint.php:320 productprint.php:341 productprint.php:371
+#: productprint.php:393 productprint.php:400
+msgid "Selected="
+msgstr ""
+
+#: productprint.php:291 productprint.php:296 productprint.php:301
+#: productprint.php:306 productprint.php:311 productprint.php:316
+#: productprint.php:321 productprint.php:342 productprint.php:372
+#: productprint.php:394 productprint.php:401
+msgid "No"
+msgstr ""
+
+#: productprint.php:293
+msgid "Show description?"
+msgstr ""
+
+#: productprint.php:298
+msgid "Show price?"
+msgstr ""
+
+#: productprint.php:303
+msgid "Show SKU?"
+msgstr ""
+
+#: productprint.php:308
+msgid "Show attributes?"
+msgstr ""
+
+#: productprint.php:313
+msgid "Show stock level?"
+msgstr ""
+
+#: productprint.php:318
+msgid "Show reviews?"
+msgstr ""
+
+#: productprint.php:331
+msgid "Featured Image Settings"
+msgstr ""
+
+#: productprint.php:339
+msgid "Show featured image?"
+msgstr ""
+
+#: productprint.php:346 productprint.php:350
+msgid "Position"
+msgstr ""
+
+#: productprint.php:362 productprint.php:383
+msgid ""
+"Append either px or % to the width. The height will scale in proportion."
+msgstr ""
+
+#: productprint.php:363
+msgid "Width"
+msgstr ""
+
+#: productprint.php:364
+msgid "Append either px or % to the margin values."
+msgstr ""
+
+#: productprint.php:369
+msgid "Show border?"
+msgstr ""
+
+#: productprint.php:382
+msgid "Gallery Options"
+msgstr ""
+
+#: productprint.php:391
+msgid "Show gallery?"
+msgstr ""
+
+#: productprint.php:396
+msgid "Gallery Image Width"
+msgstr ""
+
+#: productprint.php:398
+msgid "Show borders?"
+msgstr ""
+
+#: productprint.php:411
+msgid "Printer font"
+msgstr ""
+
+#: productprint.php:420
+msgid "Font Family"
+msgstr ""
+
+#: productprint.php:422
+msgid "font family"
+msgstr ""
+
+#: productprint.php:431
+msgid "Font Size"
+msgstr ""
+
+#: html-print.php:192
+msgid " in stock"
+msgstr ""
+
+#: html-print.php:195
+msgid "Out of stock"
+msgstr ""
+
+#. Name of the plugin
+msgid "ProductPrint"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WooCommerce extension to create printer-friendly product pages with tailored "
+"headers and footers."
+msgstr "WooCommerce extension to create printer-friendly product pages."
+
+#. URI of the plugin
+msgid "http://productprint.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Togethernet"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://togethernet.ltd.uk"
+msgstr ""

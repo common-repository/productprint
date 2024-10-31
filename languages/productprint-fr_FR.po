@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProductPrint Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-23 17:00+0000\n"
+"PO-Revision-Date: 2018-01-26 13:10+0000\n"
+"Last-Translator: Ken Richman <ken.richman@togethernet.co.uk>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: productprintpro.php:263
+msgid "Before add to cart button"
+msgstr "Avant d'ajouter au panier"
+
+#: html-print.php:200
+msgid " in stock"
+msgstr "en stock"
+
+#: html-print.php:203
+msgid "Out of stock"
+msgstr "En rupture de stock"
+
+#: productprintpro.php:66
+msgid "Print"
+msgstr "Imprime"
+
+#: productprintpro.php:201
+msgid "ProductPrint Pro Settings"
+msgstr "Paramètres de ProductPrint"
+
+#: productprintpro.php:205
+msgid "Options"
+msgstr "Options"
+
+#: productprintpro.php:208
+msgid "License"
+msgstr "Licence"
+
+#: productprintpro.php:248
+msgid "Print button"
+msgstr "Bouton Imprimer"
+
+#: productprintpro.php:256
+msgid "Position on the page"
+msgstr "Position sur la page"
+
+#: productprintpro.php:260
+msgid "Before product"
+msgstr "Avant le produit"
+
+#: productprintpro.php:261
+msgid "Before product summary"
+msgstr "Avant le résumé du produit"
+
+#: productprintpro.php:262
+msgid "Product Summary"
+msgstr "Résumé du produit"
+
+#: productprintpro.php:264
+msgid "After add to cart button"
+msgstr "Afficher le bouton Ajouter au panier"
+
+#: productprintpro.php:265
+msgid "After product summary"
+msgstr "Après le résumé du produit"
+
+#: productprintpro.php:266
+msgid "After product"
+msgstr "Après le produit"
+
+#: productprintpro.php:271
+msgid "Label for the button"
+msgstr "Étiquette pour le bouton"
+
+#: productprintpro.php:273
+msgid "Append either px or % to the button margin values."
+msgstr "Ajoutez px ou % aux valeurs de marge de bouton."
+
+#: productprintpro.php:274 productprintpro.php:401
+msgid "Left margin"
+msgstr "Marge de gauche"
+
+#: productprintpro.php:275 productprintpro.php:402
+msgid "Right margin"
+msgstr "Marge de droite"
+
+#: productprintpro.php:276 productprintpro.php:403
+msgid "Top margin"
+msgstr "Marge supérieure"
+
+#: productprintpro.php:277 productprintpro.php:404
+msgid "Bottom margin"
+msgstr "Marge inférieure"
+
+#: productprintpro.php:279
+msgid ""
+"Select a printer icon from the media library, or upload one. A good size is "
+"around 20x20 px."
+msgstr ""
+"Sélectionnez une icône d'imprimante dans la bibliothèque multimédia ou "
+"téléchargez-en une. Une bonne taille est d'environ 20 x 20 px."
+
+#: productprintpro.php:283 productprintpro.php:294 productprintpro.php:493
+msgid "Current selection: "
+msgstr "Sélection actuelle: "
+
+#: productprintpro.php:289
+msgid "Header Image"
+msgstr "Image pour l'en-tête"
+
+#: productprintpro.php:290
+msgid ""
+"Select an image from the media library or URL, or upload one. A good size is "
+"around 1500x150 px."
+msgstr ""
+"Sélectionnez une image dans la bibliothèque multimédia ou l'URL, ou "
+"téléchargez-en une. Une bonne taille est autour de 1500x150 px."
+
+#: productprintpro.php:300
+msgid "Header Text"
+msgstr "Texte pour l'en-tête"
+
+#: productprintpro.php:302
+msgid "Enter any text you would like to display below the header image."
+msgstr "Entrez le texte que vous souhaitez afficher sous l'image d'en-tête."
+
+#: productprintpro.php:313
+msgid "Select the elements to be printed"
+msgstr "Sélectionnez les éléments à imprimer"
+
+#: productprintpro.php:324
+msgid "Show short description?"
+msgstr "Afficher le description brève?"
+
+#: productprintpro.php:324 productprintpro.php:329 productprintpro.php:334 
+#: productprintpro.php:339 productprintpro.php:344 productprintpro.php:349 
+#: productprintpro.php:354 productprintpro.php:375 productprintpro.php:405 
+#: productprintpro.php:427 productprintpro.php:434
+msgid "Yes"
+msgstr "Oui"
+
+#: productprintpro.php:326 productprintpro.php:331 productprintpro.php:336 
+#: productprintpro.php:341 productprintpro.php:346 productprintpro.php:351 
+#: productprintpro.php:356 productprintpro.php:377 productprintpro.php:407 
+#: productprintpro.php:429 productprintpro.php:436
+msgid "Selected="
+msgstr "Sélectionné ="
+
+#: productprintpro.php:327 productprintpro.php:332 productprintpro.php:337 
+#: productprintpro.php:342 productprintpro.php:347 productprintpro.php:352 
+#: productprintpro.php:357 productprintpro.php:378 productprintpro.php:408 
+#: productprintpro.php:430 productprintpro.php:437
+msgid "No"
+msgstr "Non"
+
+#: productprintpro.php:329
+msgid "Show description?"
+msgstr "Afficher le description?"
+
+#: productprintpro.php:334
+msgid "Show price?"
+msgstr "Montrer le prix?"
+
+#: productprintpro.php:339
+msgid "Show SKU?"
+msgstr "Afficher SKU?"
+
+#: productprintpro.php:344
+msgid "Show attributes?"
+msgstr "Afficher les attributs?"
+
+#: productprintpro.php:349
+msgid "Show stock level?"
+msgstr "Afficher le niveau de stock?"
+
+#: productprintpro.php:354
+msgid "Show reviews?"
+msgstr "Afficher les avis?"
+
+#: productprintpro.php:367
+msgid "Featured Image Settings"
+msgstr "Paramètres d'image en vedette"
+
+#: productprintpro.php:375
+msgid "Show featured image?"
+msgstr "Montre l'image sélectionnée?"
+
+#: productprintpro.php:382 productprintpro.php:386
+msgid "Position"
+msgstr "Position"
+
+#: productprintpro.php:398 productprintpro.php:419
+msgid ""
+"Append either px or % to the width. The height will scale in proportion."
+msgstr "Ajoutez soit px, soit % à la largeur. La hauteur sera proportionnée."
+
+#: productprintpro.php:399
+msgid "Width"
+msgstr "Largeur"
+
+#: productprintpro.php:400
+msgid "Append either px or % to the margin values."
+msgstr "Ajoutez px ou % aux valeurs de marge."
+
+#: productprintpro.php:405
+msgid "Show border?"
+msgstr "Montrer la bordure?"
+
+#: productprintpro.php:418
+msgid "Gallery Options"
+msgstr "Options de la galerie"
+
+#: productprintpro.php:427
+msgid "Show gallery?"
+msgstr "Montrer la galerie?"
+
+#: productprintpro.php:432
+msgid "Gallery Image Width"
+msgstr "Largeur de l'image de la galerie"
+
+#: productprintpro.php:434
+msgid "Show borders?"
+msgstr "Montrer les bordures?"
+
+#: productprintpro.php:447
+msgid "Printer font"
+msgstr "Police d'imprimante"
+
+#: productprintpro.php:456
+msgid "Font Family"
+msgstr "Famille de polices"
+
+#: productprintpro.php:458
+msgid "font family"
+msgstr "famille de polices"
+
+#: productprintpro.php:467
+msgid "Font Size"
+msgstr "Taille de police"
+
+#: productprintpro.php:475
+msgid "Footer text"
+msgstr "Texte de pied de page"
+
+#: productprintpro.php:476
+msgid "Enter any text you would like to display at the bottom. "
+msgstr "Entrez le texte que vous souhaitez afficher en bas."
+
+#: productprintpro.php:487
+msgid "Footer Image"
+msgstr "Image de pied de page"
+
+#: productprintpro.php:488
+msgid ""
+"Select an image from the media library or URL, or upload one. A good size is "
+"around 1500x100 px."
+msgstr ""
+"Sélectionnez une image dans la bibliothèque multimédia ou l'URL, ou "
+"téléchargez-en une. Une bonne taille est autour de 1500x100 px."
+
+#: productprintpro.php:516
+msgid "License Options"
+msgstr "Options de licence"
+
+#: productprintpro.php:517
+msgid ""
+"Activating your license gives you access to developer support and product "
+"updates as soon as they are released. To transfer your license from one site "
+"to another,  deactivate it on the old site and then activate it on the new "
+"site. It is recommended that you deactivate your license key before you "
+"uninstall this plug-in. Save your license key before you try to activate it."
+msgstr ""
+"L'activation de votre licence vous donne accès au support développeur et aux "
+"mises à jour de produits dès leur publication. Pour transférer votre licence "
+"d'un site à un autre, désactivez-la sur l'ancien site puis activez-la sur le "
+"nouveau site. Il est recommandé de désactiver votre clé de licence avant de "
+"désinstaller ce plug-in. Enregistrez votre clé de licence avant d'essayer de "
+"l'activer."
+
+#: productprintpro.php:518
+msgid "License key"
+msgstr "Clé de licence"
+
+#: productprintpro.php:524
+msgid "License status"
+msgstr "Statut de la licence"
+
+#: productprintpro.php:528
+msgid "active"
+msgstr "actif"
+
+#: productprintpro.php:530
+msgid "Deactivate License"
+msgstr "Désactiver la licence"
+
+#: productprintpro.php:534
+msgid "Inactive or Invalid"
+msgstr "Inactive or Invalid"
+
+#: productprintpro.php:536
+msgid "Activate License"
+msgstr "Activer la licence"
+
+#: inc/gallery-images.php:33
+msgid "More Images"
+msgstr "Plus d'images"
+
+#. Name of the plugin
+msgid "ProductPrint Pro"
+msgstr "ProductPrint Pro"
+
+#. Description of the plugin
+msgid ""
+"WooCommerce extension to create printer-friendly product pages with tailored "
+"headers and footers."
+msgstr "Extension WooCommerce pour créer des pages de produits imprimables."
+
+#. URI of the plugin
+msgid "http://productprintpro.com"
+msgstr "http://productprintpro.com"
+
+#. Author of the plugin
+msgid "Togethernet"
+msgstr "Togethernet"
+
+#. Author URI of the plugin
+msgid "http://togethernet.ltd.uk"
+msgstr "http://togethernet.ltd.uk"
